@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Rakamlar
+//  CarpimTablosu
 //
 //  Created by Atalay Çavuşoğlu on 10.01.2023.
 //
